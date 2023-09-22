@@ -1,0 +1,51 @@
+.message-component {
+  display: flex;
+  padding: 20px;
+  width: 373px;
+  padding-bottom: 0px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.user-image {
+  width: 36px;
+  height: 36px;
+}
+
+.user-name {
+  margin: 0px;
+  margin-top: -7px;
+  margin-left: 10px;
+  font-size: 18px;
+  color: #464548;
+}
+
+.time-stamp {
+  margin: 0px;
+  margin-top: -1px;
+  margin-left: 10px;
+  font-size: 12px;
+  color: #a2a2a2;
+}
+
+.content {
+  margin: 0px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: 'pre-wrap';
+  width: auto;
+  font-size: 16px;
+  text-align: left;
+  color: #464548;
+}
+
+.replies {
+  color: #EA3F46;
+  text-align: left;
+  margin: 0px;
+  margin-left: 10px;
+  font-size: 12px;
+}

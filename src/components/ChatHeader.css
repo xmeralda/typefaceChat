@@ -1,0 +1,20 @@
+.header {
+  background-color: #F1F1F2;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.header-text {
+  color: #464548;
+}
+
+.typeface-logo {
+  width: 36px;
+  height: 36px;
+  margin-right: 10px;
+}
