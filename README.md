@@ -1,9 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # typefaceChat
+
+HOW TO RUN THE APPLICATION
+To run the application, follow these steps:
+
+Clone the Repository: Clone the Git repository from [GitHub Repo URL].
+Navigate to the Project Directory: Open a terminal and navigate to the project's root directory.
+Install Dependencies: Run npm install to install the required dependencies.
+Start the Development Server: Run npm run dev to start the development server.
+Access the Application: Open a web browser and go to http://localhost:3000 to access the chat interface.
